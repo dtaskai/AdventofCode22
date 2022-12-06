@@ -9,12 +9,12 @@ import (
 )
 
 const (
-	ROCK     int = 1
-	PAPER        = 2
-	SCISSORS     = 3
-	WIN          = 6
-	DRAW         = 3
-	LOSS         = 0
+	ROCK     = 1
+	PAPER    = 2
+	SCISSORS = 3
+	WIN      = 6
+	DRAW     = 3
+	LOSS     = 0
 )
 
 func main() {
